@@ -4,7 +4,7 @@
           "delegate_permission/common.handle_all_urls"
        ],
        "target": {
-          "namespace": "GRapp",
+          "namespace": "android_app",
           "package_name": "org.guardianrevival.grapp",
           "sha256_cert_fingerprints": [
              "1B:7A:3A:11:2F:52:20:5D:5E:E4:38:7A:FF:94:AC:8E:E1:89:A9:2B:22:47:59:47:00:E5:E3:82:53:41:B3:C3"

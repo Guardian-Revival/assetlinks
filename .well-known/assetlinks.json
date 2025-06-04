@@ -7,7 +7,8 @@
           "namespace": "android_app",
           "package_name": "org.guardianrevival.grapp",
           "sha256_cert_fingerprints": [
-             "1B:7A:3A:11:2F:52:20:5D:5E:E4:38:7A:FF:94:AC:8E:E1:89:A9:2B:22:47:59:47:00:E5:E3:82:53:41:B3:C3"
+             "1B:7A:3A:11:2F:52:20:5D:5E:E4:38:7A:FF:94:AC:8E:E1:89:A9:2B:22:47:59:47:00:E5:E3:82:53:41:B3:C3",
+              "84:00:11:C1:DA:89:B7:1D:A1:35:76:99:FB:FE:A4:0E:12:CB:06:B2:9A:7E:0F:28:3B:8E:67:1D:C2:03:A4:39"
           ]
        }
     }

@@ -1,0 +1,14 @@
+{
+"activitycontinuation": {
+        "apps": [ "77Y7NU667F.org.guardianrevival.grapp" ]
+    },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "77Y7NU667F.org.guardianrevival.grapp",
+        "paths": [ "/idme/callback" ]
+      }
+    ]
+  }
+}

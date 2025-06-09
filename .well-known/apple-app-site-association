@@ -7,7 +7,7 @@
     "details": [
       {
         "appID": "77Y7NU667F.org.guardianrevival.grapp",
-        "paths": [ "/idme/callback" ]
+        "paths": [ "/idme/callback*" ]
       }
     ]
   }
